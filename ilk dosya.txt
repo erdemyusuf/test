@@ -1,1 +1,3 @@
 Merhaba bu ilk git-github denemesi
+
+github gunden gune anlasılır olmaya basladı
